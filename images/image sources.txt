@@ -1,0 +1,11 @@
+asteroid.png: http://i1.wp.com/helpmecodeswift.com/wp-content/uploads/2016/01/a10002.png?resize=320%2C240
+asteroid2.png: https://opengameart.org/sites/default/files/1346943991.png
+asteroid3.png: https://opengameart.org/sites/default/files/1346944555.png
+flag.png: https://img.clipartfest.com/9aae8d6a6867d28187e0d351f8610f51_red-flag-clipart-by-ky1en1te-clipart-flag-blank_1200-927.png
+planet1.png: http://i.imgur.com/W9fKXtL.png
+planet2.png: http://pre15.deviantart.net/e012/th/pre/i/2013/070/e/d/ice_planet___kronos_by_khrymsyn-d5xqmnm.png
+planet3.png: http://img15.deviantart.net/b842/i/2011/140/f/4/desert_planet_resource_by_ziliran-d3gtwm1.png
+planet4.png: http://www.hedfiles.net/planet02.png
+planet5.png: http://space-facts.com/wp-content/uploads/venus-transparent.png
+space1.png: http://www.cqsisu.com/data/wallpapers/228/1501055.jpg
+space2.png: http://more-sky.com/data/out/9/IMG_326448.jpg
